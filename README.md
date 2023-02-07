@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeknoRobot
 - 👀 I’m interested in software.
-- 🌱 I’m currently learning python, c# and HTML.
+- 🌱 I’m currently learning python, c#, kotlin and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
